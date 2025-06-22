@@ -1,0 +1,72 @@
+html {
+    background-color: darkblue;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: darkblue;
+}
+
+header {
+    background-color: darkblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: darkblue;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+h2 {
+    color: white;
+    background-color: darkblue;
+    margin: 0px;
+    padding: 20px;
+}
+
+.nachinayuschiy {
+    background-color: yellow;
+    margin: 0px;
+    padding: 10px;
+}
+
+.Figma {
+    color: white;
+    background-color: darkblue;
+    margin: 0px;
+    padding: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.img-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: yellow;
+    margin: 0px;
+    padding: 0px;
+}
+
+.svyaz {
+    background-color: yellow;
+    color: black;
+}
+
+.proekti {
+    color: white;
+}
+
+.proekti a {
+    color: white;
+}
